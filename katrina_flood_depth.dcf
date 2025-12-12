@@ -1,0 +1,12 @@
+name: katrina_flood_depth
+title: katrina_flood_depth
+username: chloejenkins
+account: chloejenkins
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 16297487
+bundleId: 11312011
+url: https://chloejenkins.shinyapps.io/katrina_flood_depth/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
